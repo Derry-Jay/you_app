@@ -1,0 +1,115 @@
+{
+    "xs": "8",
+    "2xs": "6",
+    "3xs": "4",
+    "4xs": "2",
+    "xl": "18",
+    "2xl": "20",
+    "3xl": "22",
+    "4xl": "24",
+    "small": "10",
+    "large": "16",
+    "medium": "14",
+    "normal": "12",
+    "name": "You App",
+    "splash_screen_delay": "3",
+    "themed_button_width": "331",
+    "minimum_password_length": "8",
+    "maximum_password_length": "16",
+    "minimum_user_name_length": "3",
+    "profile_letter_spacing": "-0.23",
+    "bottom_text_line_height": "15.73",
+    "auth_heading_line_height": "29.05",
+    "themed_button_line_height": "19.36",
+    "save_and_close_line_height": "14.52",
+    "dev": "https://techtest.youapp.ai/api/",
+    "interest_and_about_line_height": "16.94",
+    "staging": "https://fakestoreapi.com/auth/",
+    "testing": "https://techtest.youapp.ai/api/",
+    "integration": "https://api.escuelajs.co/api/v1/",
+    "production": "https://jsonplaceholder.typicode.com/",
+    "blue_color_variant_1": {
+        "alpha": "255",
+        "color": "4599DB"
+    },
+    "black_color_variant_1": {
+        "alpha": "255",
+        "color": "09141A"
+    },
+    "black_color_variant_2": {
+        "alpha": "255",
+        "color": "0D1D23"
+    },
+    "black_color_variant_3": {
+        "alpha": "255",
+        "color": "0E191F"
+    },
+    "black_color_variant_4": {
+        "alpha": "255",
+        "color": "162329"
+    },
+    "brown_color_variant_1": {
+        "alpha": "255",
+        "color": "F8FAE5"
+    },
+    "brown_color_variant_2": {
+        "alpha": "255",
+        "color": "F3EDA6"
+    },
+    "brown_color_variant_3": {
+        "alpha": "255",
+        "color": "FFE2BE"
+    },
+    "brown_color_variant_4": {
+        "alpha": "255",
+        "color": "D5BE88"
+    },
+    "brown_color_variant_5": {
+        "alpha": "255",
+        "color": "94783E"
+    },
+    "cyan_color_variant_1": {
+        "alpha": "255",
+        "color": "62CDCB"
+    },
+    "grey_color_variant_1": {
+        "alpha": "104",
+        "color": "757575"
+    },
+    "grey_color_variant_2": {
+        "alpha": "255",
+        "color": "1F4247"
+    },
+    "grey_color_variant_3": {
+        "alpha": "15",
+        "color": "D9D9D9"
+    },
+    "gold_color_variant_1": {
+        "alpha": "255",
+        "color": "FFB24D"
+    },
+    "white_color_variant_1": {
+        "alpha": "15",
+        "color": "FFFFFF"
+    },
+    "white_color_variant_2": {
+        "alpha": "133",
+        "color": "FFFFFF"
+    },
+    "white_color_variant_3": {
+        "alpha": "56",
+        "color": "FFFFFF"
+    },
+    "white_color_variant_4": {
+        "alpha": "77",
+        "color": "FFFFFF"
+    },
+    "white_color_variant_5": {
+        "alpha": "20",
+        "color": "FFFFFF"
+    },
+    "white_color_variant_6": {
+        "alpha": "84",
+        "color": "FFFFFF"
+    }
+}
